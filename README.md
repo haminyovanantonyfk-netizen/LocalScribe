@@ -4,7 +4,7 @@
 
 Stop paying $20/month for Otter.ai or Fireflies! LocalScribe PRO runs entirely on your laptop. No internet required. No cloud uploads. Your meetings stay 100% private.
 
-![LocalScribe PRO in action - showing real-time transcription](screenshot.png)
+![LocalScribe PRO in action - showing real-time transcription](Screenshot.png)
 
 ## 🌟 Features
 - 🎤 **Record Meetings** directly from your microphone
